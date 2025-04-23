@@ -10,14 +10,14 @@ After years of experience in operations, quality management, and innovation, I�
 
 ---
 
-### 🏫📚👩🏼‍🎓🎓 Education
+### 🎓 Education
 - 🧪 Master’s in Food Safety and Quality Assurance  
 - ⚙️ Bachelor’s in Preservation Technology and Refrigeration Engineering  
 - ⚗️ Bachelor’s in Chemistry and Physics
   
 ---
 
-### 📜👩🏼‍🎓👩🏻‍💻 Certification
+### 📜 Certification
 - Programming Basics with Python
 - Programming Fundamentals with Python
 - Python Advanced
