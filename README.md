@@ -41,10 +41,10 @@ After years of experience in operations, quality management, and innovation, I�
 ---
 
 ### 💻 Currently
--🌱 Learning React & WordPress custom development
--🚀 Working on building my portfolio with real client and personal projects
--📚 I have recently enrolled in a new certification course: “100 Days of Code: The Complete Python Pro Bootcamp” at Udemy
--🔍 Looking for opportunities as a Junior Front-End Developer or Junior QA Engineer, as well as freelance projects 
+- 🌱 Learning React & WordPress custom development  
+- 🚀 Working on building my portfolio with real client and personal projects
+- 📚 I have recently enrolled in a new certification course: “100 Days of Code: The Complete Python Pro Bootcamp” at Udemy 
+- 🔍 Looking for opportunities as a Junior Front-End Developer or Junior QA Engineer, as well as freelance projects 
 
 ---
 
