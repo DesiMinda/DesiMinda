@@ -65,4 +65,4 @@ WordPress · Divi · Elementor · HTML · CSS · Python · JavaScript · SEO · 
 🎨 CSS
 🛠️ PyCharm , ReadyAPI, Postman, Trello, Jira, Mongo DB, MySQL
 🔧 GIT, Github Actions
--->
+
