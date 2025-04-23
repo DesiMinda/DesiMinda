@@ -59,10 +59,10 @@ WordPress · Divi · Elementor · HTML · CSS · Python · JavaScript · SEO · 
 ---
 
 ### 🛠️ Tools & Technologies
-🐍 Python
-💻 JavaScript
-</> HTML
-🎨 CSS
-🛠️ PyCharm , ReadyAPI, Postman, Trello, Jira, Mongo DB, MySQL
-🔧 GIT, Github Actions
+-🐍 Python
+-💻 JavaScript
+-</> HTML
+-🎨 CSS
+-🛠️ PyCharm , ReadyAPI, Postman, Trello, Jira, Mongo DB, MySQL
+-🔧 GIT, Github Actions
 
