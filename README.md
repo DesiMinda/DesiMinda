@@ -36,7 +36,6 @@ After years of experience in operations, quality management, and innovation, I�
 - 👉 High attention to detail and design  
 - 👉 Ability to work both independently and in a team
 - 👉 Thrive under pressure and meet tight deadlines  
-- 👉 Methodologies: Scrum, Agile, Lean, Six Sigma (Black Belt)
 
 ---
 
